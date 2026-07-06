@@ -1,8 +1,8 @@
 # Stats
-
-## Disclaimer
-> This plugin is only available on version 1.8.9 at the moment
 A Minecraft plugin that displays player statistics.
+
+> [!CAUTION]
+> This plugin is only available on version 1.8.9 at the moment.
 
 ## Description
 This plugin allows players to view their own or other players' PvP statistics, including total kills, deaths, and K/D ratio, inside an inventory interface.
