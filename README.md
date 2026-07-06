@@ -1,7 +1,7 @@
 # Stats
 A Minecraft plugin that displays player statistics.
 
-> [!CAUTION]
+> [!DISCLAIMER]
 > This plugin is only available on version 1.8.9 at the moment.
 
 ## Description
